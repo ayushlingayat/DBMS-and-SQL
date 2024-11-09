@@ -33,14 +33,5 @@ Your support helps us reach more learners. Share this repo with your friends, fa
 
 ---
 
-## 👥 Join Our Learning Communities for More Resources:  
-Stay updated with **jobs**, **internships**, and **interview preparation materials** by joining the communities below:
 
-### 💼 [Join our Telegram Channel for Regular Job and Internship Updates](https://telegram.me/jobsinternshipswale)  
-### 📘 [Telegram Channel for Notes & Interview Prep Materials](https://telegram.me/staylearner)  
-### 📸 [Follow us on Instagram for Coding Notes & More](https://www.instagram.com/coders_notes/)
-
----
-
-Thank you for being a part of this learning journey! 😊 Your contribution to this repo, whether it's a star ⭐, sharing with others, or submitting a pull request, means a lot to us. Let's grow together! 💪
 
